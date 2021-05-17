@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tinywebdesigner
+- 👋 Hi, I’m @thefrontendwebdeveloper 
 - 👀 I’m interested in web designer
 - 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on open source
